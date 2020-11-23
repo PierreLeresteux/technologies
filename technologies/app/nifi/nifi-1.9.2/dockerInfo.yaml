@@ -1,4 +1,4 @@
 image: saagie/nifi
 baseTag: 1.9.2
-dynamicVersion: 1.62.0_apptoucantoco
-version: 1.9.2-1.62.0_apptoucantoco
+dynamicVersion: 1.63.0_apptoucantoco
+version: 1.9.2-1.63.0_apptoucantoco

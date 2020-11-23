@@ -24,4 +24,4 @@ contexts:
     dockerInfo:
       image: saagie/nifi
       baseTag: 1.9.2
-      version: 1.9.2-1.62.0_apptoucantoco
+      version: 1.9.2-1.63.0_apptoucantoco
